@@ -1,0 +1,1 @@
+const e={theme:"system",textRandomizer:{enabled:!1,blurEnabled:!1,blurIntensity:4,regexPattern:"",regexEnabled:!1,fakeDataType:"random"},unicodeWarning:{enabled:!0,whitelist:[],whitelistMetadata:{},allowedChars:""}};export{e as D};

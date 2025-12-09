@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build output (uncomment if you don't want to commit dist)
+# dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# TypeScript cache
+*.tsbuildinfo
